@@ -16,6 +16,7 @@
 		7D603375247E04360001CA0C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D603374247E04360001CA0C /* main.m */; };
 		7D60337F247E04360001CA0C /* ____iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D60337E247E04360001CA0C /* ____iOSTests.m */; };
 		7D60338A247E04360001CA0C /* ____iOSUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D603389247E04360001CA0C /* ____iOSUITests.m */; };
+		7D603398247E06EE0001CA0C /* despacito.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7D603397247E06EE0001CA0C /* despacito.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		7D603385247E04360001CA0C /* 系统音效iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "系统音效iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D603389247E04360001CA0C /* ____iOSUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "____iOSUITests.m"; sourceTree = "<group>"; };
 		7D60338B247E04360001CA0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D603397247E06EE0001CA0C /* despacito.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = despacito.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				7D603366247E04320001CA0C /* SceneDelegate.m */,
 				7D603368247E04320001CA0C /* ViewController.h */,
 				7D603369247E04320001CA0C /* ViewController.m */,
+				7D603397247E06EE0001CA0C /* despacito.mp3 */,
 				7D60336B247E04320001CA0C /* Main.storyboard */,
 				7D60336E247E04360001CA0C /* Assets.xcassets */,
 				7D603370247E04360001CA0C /* LaunchScreen.storyboard */,
@@ -243,6 +246,7 @@
 				7D603372247E04360001CA0C /* LaunchScreen.storyboard in Resources */,
 				7D60336F247E04360001CA0C /* Assets.xcassets in Resources */,
 				7D60336D247E04320001CA0C /* Main.storyboard in Resources */,
+				7D603398247E06EE0001CA0C /* despacito.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
